@@ -1,0 +1,1 @@
+To be put inside .vscode/ as settings.json
