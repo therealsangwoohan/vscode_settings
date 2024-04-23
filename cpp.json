@@ -2,16 +2,5 @@
     "editor.formatOnType": true,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
-    "C_Cpp.autocomplete": "Disabled",
-    "C_Cpp.formatting": "Disabled",
-    "C_Cpp.errorSquiggles": "Disabled",
-    "C_Cpp.intelliSenseEngine": "Disabled",
-    "clangd.arguments": [
-        "--background-index",
-        "--clang-tidy",
-        "--header-insertion=never",
-        "--suggest-missing-includes",
-        "--compile-commands-dir=build/"
-    ],
     "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google}"
 }
